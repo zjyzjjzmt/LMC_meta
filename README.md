@@ -77,7 +77,7 @@ Reproduces the main figures (Global Map, Upset Plot, PCoA, Heatmaps) and statist
 ## 📊 Data Availability
 
 * **Newly Generated Raw Sequencing Data:**  Available at  NGDC (National Genomics Data Center, https://ngdc.cncb.ac.cn/) under CRA034768.
-* **Processed Data (GVD_LMC & GADSC_LMC):** Available at figshare **(https://figshare.com/s/d7c96305fe2f5285617f)**.
+* **Processed Data (GVD_LMC & GADSC_LMC):** Available at figshare **(10.6084/m9.figshare.31272853)**.
 
 
 ---
